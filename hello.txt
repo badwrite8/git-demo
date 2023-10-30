@@ -2,5 +2,8 @@ use vim create hello.txt
 in linus esc+yy is ctrl+c
 esc+p is ctrl-v
 use vim create hello.txt
-y
-use vim create hello.txt 
+use vim create hello.txt
+use vim create hello.txt
+use vim create hello.txt
+use vim create hello.txt
+end
