@@ -8,3 +8,4 @@ use vim create hello.txt   master test
 use vim create hello.txt   hot-fix test
 end
 change in github use git pull
+change in txt use git push
