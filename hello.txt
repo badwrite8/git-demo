@@ -7,3 +7,4 @@ use vim create hello.txt
 use vim create hello.txt   master test     
 use vim create hello.txt   hot-fix test
 end
+change in github use git pull
